@@ -1,0 +1,7 @@
+.nyc_output/
+.vscode/
+coverage/
+node_modules
+.aws-sam/
+00_Comandos.txt
+new_user_credentials.csv
